@@ -4,5 +4,6 @@ Initially created for a case study event that I made for zeb at University of Ma
 The Notebook is not meant to be a sample solution as it was created within limited time, and is not an official zeb document.
 
 The data used is the Lendingclub-Dataset - train and test data are part of the repo.
+https://www.kaggle.com/wendykan/lending-club-loan-data
 
 In case of questions - please either leave a comment or contact me via Linked-In: https://www.linkedin.com/in/julian-storz-222525b0/
